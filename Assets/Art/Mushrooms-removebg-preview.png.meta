@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: d6f3b3cd3052066469bfb58789b17e93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4954141747005684900
+    second: Mushrooms-removebg-preview_0
+  - first:
+      213: 2400398234812130302
+    second: Mushrooms-removebg-preview_1
+  - first:
+      213: 6722224453188508235
+    second: Mushrooms-removebg-preview_2
+  - first:
+      213: 5352894619005822615
+    second: Mushrooms-removebg-preview_3
+  - first:
+      213: 689339487895174221
+    second: Mushrooms-removebg-preview_4
+  - first:
+      213: 6451032469604094220
+    second: Mushrooms-removebg-preview_5
+  - first:
+      213: 6839402917392449729
+    second: Mushrooms-removebg-preview_6
+  - first:
+      213: -7956390040035488850
+    second: Mushrooms-removebg-preview_7
+  - first:
+      213: 5603307483375699992
+    second: Mushrooms-removebg-preview_8
+  - first:
+      213: -6190192452246651796
+    second: Mushrooms-removebg-preview_9
+  - first:
+      213: -2651524229215674192
+    second: Mushrooms-removebg-preview_10
+  - first:
+      213: 8595890612696050934
+    second: Mushrooms-removebg-preview_11
+  - first:
+      213: -3440893099950280459
+    second: Mushrooms-removebg-preview_12
+  - first:
+      213: -5893767977297368102
+    second: Mushrooms-removebg-preview_13
+  - first:
+      213: -4660925579187663175
+    second: Mushrooms-removebg-preview_14
+  - first:
+      213: 5064628823431786768
+    second: Mushrooms-removebg-preview_15
+  - first:
+      213: 2269209719262549659
+    second: Mushrooms-removebg-preview_16
+  - first:
+      213: -2188050617380337716
+    second: Mushrooms-removebg-preview_17
+  - first:
+      213: -3926977563676845404
+    second: Mushrooms-removebg-preview_18
+  - first:
+      213: -1495802056469552013
+    second: Mushrooms-removebg-preview_19
+  - first:
+      213: -574285621318921968
+    second: Mushrooms-removebg-preview_20
+  - first:
+      213: 1952477516406184618
+    second: Mushrooms-removebg-preview_21
+  - first:
+      213: 3413783320799362913
+    second: Mushrooms-removebg-preview_22
+  - first:
+      213: -2041278137284660099
+    second: Mushrooms-removebg-preview_23
+  - first:
+      213: -8283753887291151863
+    second: Mushrooms-removebg-preview_24
+  - first:
+      213: -2642285746244546621
+    second: Mushrooms-removebg-preview_25
+  - first:
+      213: -7486142270653060429
+    second: Mushrooms-removebg-preview_26
+  - first:
+      213: 5635108841539307355
+    second: Mushrooms-removebg-preview_27
+  - first:
+      213: -3597743047161220631
+    second: Mushrooms-removebg-preview_28
+  - first:
+      213: 6724475282456746140
+    second: Mushrooms-removebg-preview_29
+  - first:
+      213: 8481427168366401697
+    second: Mushrooms-removebg-preview_30
+  - first:
+      213: -1606718219208652020
+    second: Mushrooms-removebg-preview_31
+  - first:
+      213: 2015931718582002753
+    second: Mushrooms-removebg-preview_32
+  - first:
+      213: -6373209509737794918
+    second: Mushrooms-removebg-preview_33
+  - first:
+      213: 3885200828209115063
+    second: Mushrooms-removebg-preview_34
+  - first:
+      213: -5152642214911449162
+    second: Mushrooms-removebg-preview_35
+  - first:
+      213: 2044786331345172350
+    second: Mushrooms-removebg-preview_36
+  - first:
+      213: 640920894610028946
+    second: Mushrooms-removebg-preview_37
+  - first:
+      213: 8254666891388790777
+    second: Mushrooms-removebg-preview_38
+  - first:
+      213: 1453477339530157317
+    second: Mushrooms-removebg-preview_39
+  - first:
+      213: -9070456100598331955
+    second: Mushrooms-removebg-preview_40
+  - first:
+      213: 1709481597027239196
+    second: Mushrooms-removebg-preview_41
+  - first:
+      213: 2673364059950003564
+    second: Mushrooms-removebg-preview_42
+  - first:
+      213: -3081251645874617908
+    second: Mushrooms-removebg-preview_43
+  - first:
+      213: 4095738206458087160
+    second: Mushrooms-removebg-preview_44
+  - first:
+      213: 5152149377430025360
+    second: Mushrooms-removebg-preview_45
+  - first:
+      213: 3246946488057118546
+    second: Mushrooms-removebg-preview_46
+  - first:
+      213: -1371578716073779675
+    second: Mushrooms-removebg-preview_47
+  - first:
+      213: -5571675926996263832
+    second: Mushrooms-removebg-preview_48
+  - first:
+      213: 599900617025584847
+    second: Mushrooms-removebg-preview_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 326
+        width: 251
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf435bba5a0c440800000000000000
+      internalID: 4954141747005684900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 371
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a3790a7def4120800000000000000
+      internalID: 2400398234812130302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 371
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4adeb836832a4d50800000000000000
+      internalID: 6722224453188508235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 371
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79621fd8b4d494a40800000000000000
+      internalID: 5352894619005822615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 321
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c34a9ac96019900800000000000000
+      internalID: 689339487895174221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 397
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0153412adba68950800000000000000
+      internalID: 6451032469604094220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 392
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c082f677b07aee50800000000000000
+      internalID: 6839402917392449729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 371
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab8a31d969359190800000000000000
+      internalID: -7956390040035488850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 373
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81885e1f772f2cd40800000000000000
+      internalID: 5603307483375699992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 294
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb88003c4081aa0800000000000000
+      internalID: -6190192452246651796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 333
+        width: 114
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0224c03c4e33bd0800000000000000
+      internalID: -2651524229215674192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 334
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcecd128fcba4770800000000000000
+      internalID: 8595890612696050934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 353
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0fe5bc4fd7f30d0800000000000000
+      internalID: -3440893099950280459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 354
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb2e9c4041253ea0800000000000000
+      internalID: -5893767977297368102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 324
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beccff51e0115fb0800000000000000
+      internalID: -4660925579187663175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113bd3d41d294640800000000000000
+      internalID: 5064628823431786768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 191
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b961285873add7f10800000000000000
+      internalID: 2269209719262549659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 190
+        width: 123
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc788786e8b72a1e0800000000000000
+      internalID: -2188050617380337716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 315
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aadc1c36b29089c0800000000000000
+      internalID: -3926977563676845404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 314
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37465d964f7dd3be0800000000000000
+      internalID: -1495802056469552013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 234
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011dba5254ab708f0800000000000000
+      internalID: -574285621318921968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaad35dd4f7981b10800000000000000
+      internalID: 1952477516406184618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 192
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3660e7d1306f20800000000000000
+      internalID: 3413783320799362913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74706b695ceba3e0800000000000000
+      internalID: -2041278137284660099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 51
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aef3d8ab13a0d80800000000000000
+      internalID: -8283753887291151863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 156
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf040cfc17b45bd0800000000000000
+      internalID: -2642285746244546621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 77
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba20b3a441eb1890800000000000000
+      internalID: -7486142270653060429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 94
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b570d92a2ade33e40800000000000000
+      internalID: 5635108841539307355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 94
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f2d0a2cf321ec0800000000000000
+      internalID: -3597743047161220631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 56
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c989abf34a2225d50800000000000000
+      internalID: 6724475282456746140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 59
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a893d6b21514b570800000000000000
+      internalID: 8481427168366401697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b8be9da4ac3b9e0800000000000000
+      internalID: -1606718219208652020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 58
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144e58997370afb10800000000000000
+      internalID: 2015931718582002753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 62
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ffe4b7bfcd87a0800000000000000
+      internalID: -6373209509737794918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 58
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf257e81910be530800000000000000
+      internalID: 3885200828209115063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 62
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7658594332e78b0800000000000000
+      internalID: -5152642214911449162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773769a55a806c10800000000000000
+      internalID: 2044786331345172350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 44
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993b5c682205e800800000000000000
+      internalID: 640920894610028946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 41
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f728687dc77e8270800000000000000
+      internalID: 8254666891388790777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d56cf70f9cb2410800000000000000
+      internalID: 1453477339530157317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cf0ddb344f1280800000000000000
+      internalID: -9070456100598331955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 41
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1540ec847c49b710800000000000000
+      internalID: 1709481597027239196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 42
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65bd9cc272b91520800000000000000
+      internalID: 2673364059950003564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc14e0804f13d35d0800000000000000
+      internalID: -3081251645874617908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60ee8d23cf6d830800000000000000
+      internalID: 4095738206458087160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094777fbf8c108740800000000000000
+      internalID: 5152149377430025360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fb859b0a87f0d20800000000000000
+      internalID: 3246946488057118546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e9fe6bc6c27fce0800000000000000
+      internalID: -1371578716073779675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 6
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cdacfa34e6da2b0800000000000000
+      internalID: -5571675926996263832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushrooms-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef85ace66435800800000000000000
+      internalID: 599900617025584847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mushrooms-removebg-preview_0: 4954141747005684900
+      Mushrooms-removebg-preview_1: 2400398234812130302
+      Mushrooms-removebg-preview_10: -2651524229215674192
+      Mushrooms-removebg-preview_11: 8595890612696050934
+      Mushrooms-removebg-preview_12: -3440893099950280459
+      Mushrooms-removebg-preview_13: -5893767977297368102
+      Mushrooms-removebg-preview_14: -4660925579187663175
+      Mushrooms-removebg-preview_15: 5064628823431786768
+      Mushrooms-removebg-preview_16: 2269209719262549659
+      Mushrooms-removebg-preview_17: -2188050617380337716
+      Mushrooms-removebg-preview_18: -3926977563676845404
+      Mushrooms-removebg-preview_19: -1495802056469552013
+      Mushrooms-removebg-preview_2: 6722224453188508235
+      Mushrooms-removebg-preview_20: -574285621318921968
+      Mushrooms-removebg-preview_21: 1952477516406184618
+      Mushrooms-removebg-preview_22: 3413783320799362913
+      Mushrooms-removebg-preview_23: -2041278137284660099
+      Mushrooms-removebg-preview_24: -8283753887291151863
+      Mushrooms-removebg-preview_25: -2642285746244546621
+      Mushrooms-removebg-preview_26: -7486142270653060429
+      Mushrooms-removebg-preview_27: 5635108841539307355
+      Mushrooms-removebg-preview_28: -3597743047161220631
+      Mushrooms-removebg-preview_29: 6724475282456746140
+      Mushrooms-removebg-preview_3: 5352894619005822615
+      Mushrooms-removebg-preview_30: 8481427168366401697
+      Mushrooms-removebg-preview_31: -1606718219208652020
+      Mushrooms-removebg-preview_32: 2015931718582002753
+      Mushrooms-removebg-preview_33: -6373209509737794918
+      Mushrooms-removebg-preview_34: 3885200828209115063
+      Mushrooms-removebg-preview_35: -5152642214911449162
+      Mushrooms-removebg-preview_36: 2044786331345172350
+      Mushrooms-removebg-preview_37: 640920894610028946
+      Mushrooms-removebg-preview_38: 8254666891388790777
+      Mushrooms-removebg-preview_39: 1453477339530157317
+      Mushrooms-removebg-preview_4: 689339487895174221
+      Mushrooms-removebg-preview_40: -9070456100598331955
+      Mushrooms-removebg-preview_41: 1709481597027239196
+      Mushrooms-removebg-preview_42: 2673364059950003564
+      Mushrooms-removebg-preview_43: -3081251645874617908
+      Mushrooms-removebg-preview_44: 4095738206458087160
+      Mushrooms-removebg-preview_45: 5152149377430025360
+      Mushrooms-removebg-preview_46: 3246946488057118546
+      Mushrooms-removebg-preview_47: -1371578716073779675
+      Mushrooms-removebg-preview_48: -5571675926996263832
+      Mushrooms-removebg-preview_49: 599900617025584847
+      Mushrooms-removebg-preview_5: 6451032469604094220
+      Mushrooms-removebg-preview_6: 6839402917392449729
+      Mushrooms-removebg-preview_7: -7956390040035488850
+      Mushrooms-removebg-preview_8: 5603307483375699992
+      Mushrooms-removebg-preview_9: -6190192452246651796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

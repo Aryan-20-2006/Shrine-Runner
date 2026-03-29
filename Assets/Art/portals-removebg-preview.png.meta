@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 96c1f0fe0720f3e4aa819d980198ca70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6864855571318446393
+    second: portals-removebg-preview_0
+  - first:
+      213: -9121022171617202957
+    second: portals-removebg-preview_1
+  - first:
+      213: -2636809050542537623
+    second: portals-removebg-preview_2
+  - first:
+      213: 2426390502007266524
+    second: portals-removebg-preview_3
+  - first:
+      213: -1060736893535678264
+    second: portals-removebg-preview_4
+  - first:
+      213: 3209647454441449418
+    second: portals-removebg-preview_5
+  - first:
+      213: -8510764643248608669
+    second: portals-removebg-preview_6
+  - first:
+      213: 1971476587419889390
+    second: portals-removebg-preview_7
+  - first:
+      213: -510988187750221668
+    second: portals-removebg-preview_8
+  - first:
+      213: -334826667637874143
+    second: portals-removebg-preview_9
+  - first:
+      213: 8024679050064670988
+    second: portals-removebg-preview_10
+  - first:
+      213: -7311102681184027442
+    second: portals-removebg-preview_11
+  - first:
+      213: -5411211392462613552
+    second: portals-removebg-preview_12
+  - first:
+      213: -4854635913775003474
+    second: portals-removebg-preview_13
+  - first:
+      213: -6301437249496169990
+    second: portals-removebg-preview_14
+  - first:
+      213: -1838362948969864466
+    second: portals-removebg-preview_15
+  - first:
+      213: -2607470163168534820
+    second: portals-removebg-preview_16
+  - first:
+      213: -7819753182184672302
+    second: portals-removebg-preview_17
+  - first:
+      213: -4511342820847443501
+    second: portals-removebg-preview_18
+  - first:
+      213: 1408897522382984949
+    second: portals-removebg-preview_19
+  - first:
+      213: -2607944406742917083
+    second: portals-removebg-preview_20
+  - first:
+      213: 2098400930575154977
+    second: portals-removebg-preview_21
+  - first:
+      213: 181254694341501627
+    second: portals-removebg-preview_22
+  - first:
+      213: 778472850260368328
+    second: portals-removebg-preview_23
+  - first:
+      213: -1106195010795998879
+    second: portals-removebg-preview_24
+  - first:
+      213: 3754277563488298596
+    second: portals-removebg-preview_25
+  - first:
+      213: 4204478867762939913
+    second: portals-removebg-preview_26
+  - first:
+      213: 4744710641721902777
+    second: portals-removebg-preview_27
+  - first:
+      213: 5503311789790320928
+    second: portals-removebg-preview_28
+  - first:
+      213: -6786307609025033331
+    second: portals-removebg-preview_29
+  - first:
+      213: 7070292069282581522
+    second: portals-removebg-preview_30
+  - first:
+      213: -7103119854367367123
+    second: portals-removebg-preview_31
+  - first:
+      213: 7284509886841531560
+    second: portals-removebg-preview_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portals-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 368
+        width: 252
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e33dba322bb0a0800000000000000
+      internalID: -6864855571318446393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 371
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc6b4009ae9b6180800000000000000
+      internalID: -9121022171617202957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 370
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96480e1932c286bd0800000000000000
+      internalID: -2636809050542537623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 371
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc56865e454ca120800000000000000
+      internalID: 2426390502007266524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 368
+        width: 100
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c097a45a618741f0800000000000000
+      internalID: -1060736893535678264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 396
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac72838ba55fa8c20800000000000000
+      internalID: 3209647454441449418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 392
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a663026a0b3e980800000000000000
+      internalID: -8510764643248608669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 371
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee692cc2871c5b10800000000000000
+      internalID: 1971476587419889390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 376
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983ab853fa98e8f0800000000000000
+      internalID: -510988187750221668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 372
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122ed167be47a5bf0800000000000000
+      internalID: -334826667637874143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 373
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01bf9754136d5f60800000000000000
+      internalID: 8024679050064670988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 356
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccbe9be8deb98a90800000000000000
+      internalID: -7311102681184027442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 354
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d318bb88e387e4b0800000000000000
+      internalID: -5411211392462613552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 355
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8469d7b5ed0acb0800000000000000
+      internalID: -4854635913775003474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 314
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1cd51453ccc88a0800000000000000
+      internalID: -6301437249496169990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 333
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2696253a2dc76e0800000000000000
+      internalID: -1838362948969864466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 322
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded8e993b760dbd0800000000000000
+      internalID: -2607470163168534820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 315
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f6a069e7aa7390800000000000000
+      internalID: -7819753182184672302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d121674b9d7461c0800000000000000
+      internalID: -4511342820847443501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 191
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6d09af4d86d8310800000000000000
+      internalID: 1408897522382984949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 189
+        width: 124
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202f1a2168becbd0800000000000000
+      internalID: -2607944406742917083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 234
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff74f47840f1d10800000000000000
+      internalID: 2098400930575154977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 212
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e8162f22f38200800000000000000
+      internalID: 181254694341501627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 191
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1e0bcee0bdca00800000000000000
+      internalID: 778472850260368328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 85
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f131af7106a0f0800000000000000
+      internalID: -1106195010795998879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46660ff8d8fd91430800000000000000
+      internalID: 3754277563488298596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90885a2014f495a30800000000000000
+      internalID: 4204478867762939913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b689d9a03998d140800000000000000
+      internalID: 4744710641721902777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 97
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029dbae3ae0bf5c40800000000000000
+      internalID: 5503311789790320928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 96
+        width: 21
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b488b5f2132d1a0800000000000000
+      internalID: -6786307609025033331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 99
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c89df4d29be1260800000000000000
+      internalID: 7070292069282581522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 96
+        width: 17
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20a86b5026ac6d90800000000000000
+      internalID: -7103119854367367123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portals-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 95
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca208a527c71560800000000000000
+      internalID: 7284509886841531560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      portals-removebg-preview_0: -6864855571318446393
+      portals-removebg-preview_1: -9121022171617202957
+      portals-removebg-preview_10: 8024679050064670988
+      portals-removebg-preview_11: -7311102681184027442
+      portals-removebg-preview_12: -5411211392462613552
+      portals-removebg-preview_13: -4854635913775003474
+      portals-removebg-preview_14: -6301437249496169990
+      portals-removebg-preview_15: -1838362948969864466
+      portals-removebg-preview_16: -2607470163168534820
+      portals-removebg-preview_17: -7819753182184672302
+      portals-removebg-preview_18: -4511342820847443501
+      portals-removebg-preview_19: 1408897522382984949
+      portals-removebg-preview_2: -2636809050542537623
+      portals-removebg-preview_20: -2607944406742917083
+      portals-removebg-preview_21: 2098400930575154977
+      portals-removebg-preview_22: 181254694341501627
+      portals-removebg-preview_23: 778472850260368328
+      portals-removebg-preview_24: -1106195010795998879
+      portals-removebg-preview_25: 3754277563488298596
+      portals-removebg-preview_26: 4204478867762939913
+      portals-removebg-preview_27: 4744710641721902777
+      portals-removebg-preview_28: 5503311789790320928
+      portals-removebg-preview_29: -6786307609025033331
+      portals-removebg-preview_3: 2426390502007266524
+      portals-removebg-preview_30: 7070292069282581522
+      portals-removebg-preview_31: -7103119854367367123
+      portals-removebg-preview_32: 7284509886841531560
+      portals-removebg-preview_4: -1060736893535678264
+      portals-removebg-preview_5: 3209647454441449418
+      portals-removebg-preview_6: -8510764643248608669
+      portals-removebg-preview_7: 1971476587419889390
+      portals-removebg-preview_8: -510988187750221668
+      portals-removebg-preview_9: -334826667637874143
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

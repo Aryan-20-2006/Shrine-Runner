@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 247ea2616b4c37946a836710d3d5aed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9222789509982845521
+    second: Hooded_player_0
+  - first:
+      213: -7673777243508708401
+    second: Hooded_player_1
+  - first:
+      213: 8688594437208421294
+    second: Hooded_player_2
+  - first:
+      213: -243526234230398268
+    second: Hooded_player_3
+  - first:
+      213: 7010197561191482929
+    second: Hooded_player_4
+  - first:
+      213: 1710002736518802270
+    second: Hooded_player_5
+  - first:
+      213: 6470254012854748685
+    second: Hooded_player_6
+  - first:
+      213: -6118790184855786301
+    second: Hooded_player_7
+  - first:
+      213: -4881961382409958581
+    second: Hooded_player_8
+  - first:
+      213: -7497486756007738027
+    second: Hooded_player_9
+  - first:
+      213: 7172423646151411613
+    second: Hooded_player_10
+  - first:
+      213: -1919616239949460377
+    second: Hooded_player_11
+  - first:
+      213: -1570145011517830768
+    second: Hooded_player_12
+  - first:
+      213: 1838643391372407250
+    second: Hooded_player_13
+  - first:
+      213: 2619045633732599314
+    second: Hooded_player_14
+  - first:
+      213: -3566139855874865093
+    second: Hooded_player_15
+  - first:
+      213: 5628978697803982007
+    second: Hooded_player_16
+  - first:
+      213: -7250599574869233387
+    second: Hooded_player_17
+  - first:
+      213: -6706656127735429507
+    second: Hooded_player_18
+  - first:
+      213: 4567924797724152946
+    second: Hooded_player_19
+  - first:
+      213: -7413458146467287062
+    second: Hooded_player_20
+  - first:
+      213: 1724004527568798771
+    second: Hooded_player_21
+  - first:
+      213: 8804763778443418077
+    second: Hooded_player_22
+  - first:
+      213: -862629433488503654
+    second: Hooded_player_23
+  - first:
+      213: 7109365250823548330
+    second: Hooded_player_24
+  - first:
+      213: -1420192883931715981
+    second: Hooded_player_25
+  - first:
+      213: -4442226630126601634
+    second: Hooded_player_26
+  - first:
+      213: 1991823053846360334
+    second: Hooded_player_27
+  - first:
+      213: 5202220195181343099
+    second: Hooded_player_28
+  - first:
+      213: 2298071192975666750
+    second: Hooded_player_29
+  - first:
+      213: 3758619823107615310
+    second: Hooded_player_30
+  - first:
+      213: -8259550205146257996
+    second: Hooded_player_31
+  - first:
+      213: 2999470855996108352
+    second: Hooded_player_32
+  - first:
+      213: 8730238958928521092
+    second: Hooded_player_33
+  - first:
+      213: -2083115605137961620
+    second: Hooded_player_34
+  - first:
+      213: -3539218622142804382
+    second: Hooded_player_35
+  - first:
+      213: -519323610623748842
+    second: Hooded_player_36
+  - first:
+      213: -3812430752335129456
+    second: Hooded_player_37
+  - first:
+      213: -1702031529921040643
+    second: Hooded_player_38
+  - first:
+      213: -5100650609149960048
+    second: Hooded_player_39
+  - first:
+      213: 1365712117815041318
+    second: Hooded_player_40
+  - first:
+      213: 1616069308220253987
+    second: Hooded_player_41
+  - first:
+      213: -110174545540481308
+    second: Hooded_player_42
+  - first:
+      213: -4338728887544665516
+    second: Hooded_player_43
+  - first:
+      213: 983789822467522723
+    second: Hooded_player_44
+  - first:
+      213: -2137530736151380012
+    second: Hooded_player_45
+  - first:
+      213: 4929882727758416093
+    second: Hooded_player_46
+  - first:
+      213: -5979881922803139134
+    second: Hooded_player_47
+  - first:
+      213: -6599313803546842114
+    second: Hooded_player_48
+  - first:
+      213: -1229060722116413808
+    second: Hooded_player_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hooded_player_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 469
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af9b4e13eedff70800000000000000
+      internalID: 9222789509982845521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 469
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbef232144418590800000000000000
+      internalID: -7673777243508708401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea33e334b96149870800000000000000
+      internalID: 8688594437208421294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 411
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c265332e22de9cf0800000000000000
+      internalID: -243526234230398268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 352
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c0205a89394160800000000000000
+      internalID: 7010197561191482929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 352
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b262bcd662bb710800000000000000
+      internalID: 1710002736518802270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 352
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c0ca6eb5fac950800000000000000
+      internalID: 6470254012854748685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 352
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2680eeb0b51ba0800000000000000
+      internalID: -6118790184855786301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b874a0df9cf3cb0800000000000000
+      internalID: -4881961382409958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 292
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55586ffc48393f790800000000000000
+      internalID: -7497486756007738027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 292
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9787771e41998360800000000000000
+      internalID: 7172423646151411613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 293
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ccdb843372c55e0800000000000000
+      internalID: -1919616239949460377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 292
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c0a65e69b53ae0800000000000000
+      internalID: -1570145011517830768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 292
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d13f534c6c248910800000000000000
+      internalID: 1838643391372407250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 292
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e5b29a028b85420800000000000000
+      internalID: 2619045633732599314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 292
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38473ff1b6828ec0800000000000000
+      internalID: -3566139855874865093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 234
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4e8d25d462e1e40800000000000000
+      internalID: 5628978697803982007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511325b1a12b06b90800000000000000
+      internalID: -7250599574869233387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 234
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7602a309cb2de2a0800000000000000
+      internalID: -6706656127735429507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 234
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274db01d667846f30800000000000000
+      internalID: 4567924797724152946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef679e081b1e1990800000000000000
+      internalID: -7413458146467287062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 234
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33447e0dbf4ece710800000000000000
+      internalID: 1724004527568798771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 234
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd99851c10ec03a70800000000000000
+      internalID: 8804763778443418077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0f14c9135704f0800000000000000
+      internalID: -862629433488503654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade7d1570a89a260800000000000000
+      internalID: 7109365250823548330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 179
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37666b8b8167a4ce0800000000000000
+      internalID: -1420192883931715981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 181
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5af5837a6a0a52c0800000000000000
+      internalID: -4442226630126601634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0132fba38064ab10800000000000000
+      internalID: 1991823053846360334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 175
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b52974bff13840800000000000000
+      internalID: 5202220195181343099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 175
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e6fd5039364ef10800000000000000
+      internalID: 2298071192975666750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 116
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a221aa0dc492430800000000000000
+      internalID: 3758619823107615310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5a0c179de206d80800000000000000
+      internalID: -8259550205146257996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee8c50ad240a920800000000000000
+      internalID: 2999470855996108352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 146
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e53f041a082970800000000000000
+      internalID: 8730238958928521092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcda9d4694713e0800000000000000
+      internalID: -2083115605137961620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 57
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e0bbc2a6b22eec0800000000000000
+      internalID: -3539218622142804382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 57
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155c497dedfac8f0800000000000000
+      internalID: -519323610623748842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941a4c0e66871bc0800000000000000
+      internalID: -3812430752335129456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_38
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 57
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeaa8e575b2168e0800000000000000
+      internalID: -1702031529921040643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_39
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 57
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090ac3e9b49d639b0800000000000000
+      internalID: -5100650609149960048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_40
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ddfcf6febf3f210800000000000000
+      internalID: 1365712117815041318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 57
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32721e8397e6d6610800000000000000
+      internalID: 1616069308220253987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef4c5a5d4987ef0800000000000000
+      internalID: -110174545540481308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aac29701db9c3c0800000000000000
+      internalID: -4338728887544665516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a042d591af17ad00800000000000000
+      internalID: 983789822467522723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb73fde17f552e0800000000000000
+      internalID: -2137530736151380012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_46
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8cf54a8367a6440800000000000000
+      internalID: 4929882727758416093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdf980f211330da0800000000000000
+      internalID: -5979881922803139134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_48
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb22427f078a64a0800000000000000
+      internalID: -6599313803546842114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded_player_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096bddaf8cf71fee0800000000000000
+      internalID: -1229060722116413808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hooded_player_0: 9222789509982845521
+      Hooded_player_1: -7673777243508708401
+      Hooded_player_10: 7172423646151411613
+      Hooded_player_11: -1919616239949460377
+      Hooded_player_12: -1570145011517830768
+      Hooded_player_13: 1838643391372407250
+      Hooded_player_14: 2619045633732599314
+      Hooded_player_15: -3566139855874865093
+      Hooded_player_16: 5628978697803982007
+      Hooded_player_17: -7250599574869233387
+      Hooded_player_18: -6706656127735429507
+      Hooded_player_19: 4567924797724152946
+      Hooded_player_2: 8688594437208421294
+      Hooded_player_20: -7413458146467287062
+      Hooded_player_21: 1724004527568798771
+      Hooded_player_22: 8804763778443418077
+      Hooded_player_23: -862629433488503654
+      Hooded_player_24: 7109365250823548330
+      Hooded_player_25: -1420192883931715981
+      Hooded_player_26: -4442226630126601634
+      Hooded_player_27: 1991823053846360334
+      Hooded_player_28: 5202220195181343099
+      Hooded_player_29: 2298071192975666750
+      Hooded_player_3: -243526234230398268
+      Hooded_player_30: 3758619823107615310
+      Hooded_player_31: -8259550205146257996
+      Hooded_player_32: 2999470855996108352
+      Hooded_player_33: 8730238958928521092
+      Hooded_player_34: -2083115605137961620
+      Hooded_player_35: -3539218622142804382
+      Hooded_player_36: -519323610623748842
+      Hooded_player_37: -3812430752335129456
+      Hooded_player_38: -1702031529921040643
+      Hooded_player_39: -5100650609149960048
+      Hooded_player_4: 7010197561191482929
+      Hooded_player_40: 1365712117815041318
+      Hooded_player_41: 1616069308220253987
+      Hooded_player_42: -110174545540481308
+      Hooded_player_43: -4338728887544665516
+      Hooded_player_44: 983789822467522723
+      Hooded_player_45: -2137530736151380012
+      Hooded_player_46: 4929882727758416093
+      Hooded_player_47: -5979881922803139134
+      Hooded_player_48: -6599313803546842114
+      Hooded_player_49: -1229060722116413808
+      Hooded_player_5: 1710002736518802270
+      Hooded_player_6: 6470254012854748685
+      Hooded_player_7: -6118790184855786301
+      Hooded_player_8: -4881961382409958581
+      Hooded_player_9: -7497486756007738027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
