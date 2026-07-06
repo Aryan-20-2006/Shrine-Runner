@@ -1,32 +1,35 @@
-🎮 Platformer — Unity 2D Exploration Game
-A 2D platformer built in Unity with C#, originally created during the Deltatime Hackathon by Parallax (PESU EC's game dev club). Currently being rebuilt with improved architecture and new features.
+# Platformer
 
-🕹️ Gameplay
-An exploration-focused 2D platformer where the player navigates through levels using fluid movement mechanics. The emphasis is on environmental discovery over combat.
+A 2D platformer built in Unity — participated in Deltatime GameJam (Parallax, PESU EC) twice. The first time I was just getting introduced to Unity. By the second jam, the same concept came out significantly better — better level design, tighter mechanics, and a clearer vision of what I wanted to build.
 
-✅ Features
+> Built by Aryan Burman · PES University Bengaluru
 
-Player movement system — responsive controls with jumping and directional movement
-Collection system — in-world pickups integrated into the game loop
-Core game loop — start, play, and end states wired together
-Hackathon-built — designed and shipped under time constraints
+---
 
+## About
 
-🛠️ Tech Stack
-ToolPurposeUnity (2D)Game engineC#Game logic and mechanicsUnity PhysicsCollision and movement
+After the second jam I continued improving it, but eventually hit a wall with AI-generated assets that didn't work well for the visual style I wanted. That friction pushed me toward 3D — and led directly to building Forest Survival, where I dropped generated assets entirely and focused on systems architecture instead.
 
-🚧 In Progress
-This project is actively being rebuilt. Planned improvements:
+This project marks the point where I went from learning Unity to actually thinking about game design.
 
-Cleaner code architecture (proper separation of concerns)
-Level design expansion with environmental storytelling
-Improved player feel — coyote time, jump buffering
-Scene management and save system
+---
 
+## Built with
 
-🏁 Origin
-Built at Deltatime, a game jam by Parallax, PESU EC's official game development club. The goal was to design and ship a working prototype within hackathon time constraints — no tutorial dependency, all code written from scratch.
+- Unity 2D
+- C#
 
-👤 Author
-Aryan Burman — CSE Student, PES University EC
-github.com/Aryan-20-2006
+---
+
+## What I learned
+
+- How much difference a year of experience makes on the same problem
+- Why asset quality matters more than asset quantity
+- When to stop polishing and start rebuilding — which led to Forest Survival
+
+---
+
+## Author
+
+**Aryan Burman**  
+[GitHub](https://github.com/Aryan-20-2006)
