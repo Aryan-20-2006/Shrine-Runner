@@ -5,6 +5,8 @@ A 2D platformer built in Unity — started as a hackathon project at Deltatime G
 
 ---
 
+## Gameplay
+
 ![Gameplay demo](Assets/demo.gif)
 
 ---
