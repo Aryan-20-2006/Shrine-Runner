@@ -1,4 +1,4 @@
-# Platformer
+# Shrine Runner-Platformer game
 A 2D platformer built in Unity — started as a hackathon project at Deltatime GameJam (Parallax, PESU EC), rebuilt and improved after a year of experience with the engine.
 
 > Built by Aryan Burman · PES University Bengaluru
